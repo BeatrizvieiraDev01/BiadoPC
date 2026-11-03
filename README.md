@@ -1,6 +1,16 @@
-# Olá, eu sou Beatriz Vieira 👋
 
-**Desenvolvimento de Software | Análise de Dados | Tecnologia da Informação**
+<div align="center">
+
+# Beatriz Vieira
+
+**Desenvolvimento de Software • Análise de Dados • Tecnologia da Informação**
+
+`Python` · `Django` · `SQL` · `Power BI`
+
+</div>
+
+---
+  
 
 Sou profissional de Tecnologia da Informação, com experiência em suporte técnico, infraestrutura, desenvolvimento de sistemas web e automação de processos.
 
