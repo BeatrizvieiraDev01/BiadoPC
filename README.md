@@ -25,27 +25,27 @@ Atualmente, estou aprofundando meus conhecimentos em **Python, Django, SQL e Pow
 
 <h3>Desenvolvimento</h3>
 <p>
-  <img src="https://cdn.simpleicons.org/python/9CA3AF" height="32" alt="Python" />
-  <img src="https://cdn.simpleicons.org/django/9CA3AF" height="32" alt="Django" />
-  <img src="https://cdn.simpleicons.org/html5/9CA3AF" height="32" alt="HTML5" />
-  <img src="https://cdn.simpleicons.org/css/9CA3AF" height="32" alt="CSS" />
-  <img src="https://cdn.simpleicons.org/bootstrap/9CA3AF" height="32" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="35" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="35" alt="Bootstrap" />
 </p>
 
 <h3>Dados e Business Intelligence</h3>
 <p>
-  <img src="https://cdn.simpleicons.org/mysql/9CA3AF" height="32" alt="SQL - MySQL" />
-  <img src="https://cdn.simpleicons.org/powerbi/9CA3AF" height="32" alt="Power BI" />
-  <img src="https://cdn.simpleicons.org/microsoftexcel/9CA3AF" height="32" alt="Excel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="35" alt="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="35" alt="Pandas" />
 </p>
+<p><strong>Outras ferramentas:</strong> Power BI · Excel</p>
 
-<h3>Ferramentas</h3>
+<h3>Ferramentas de Desenvolvimento</h3>
 <p>
-  <img src="https://cdn.simpleicons.org/git/9CA3AF" height="32" alt="Git" />
-  <img src="https://cdn.simpleicons.org/github/9CA3AF" height="32" alt="GitHub" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/9CA3AF" height="32" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="35" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="35" alt="VS Code" />
 </p>
-
 
 ### Projetos
 
