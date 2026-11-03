@@ -20,17 +20,32 @@ Atualmente, estou aprofundando meus conhecimentos em **Python, Django, SQL e Pow
 
 ---
 
-### Tecnologias e ferramentas
 
-**Desenvolvimento:** Python · Django · HTML · CSS · Bootstrap
+<h2>Tecnologias e Ferramentas</h2>
 
-**Dados e BI:** SQL · Power BI · Excel
+<h3>Desenvolvimento</h3>
+<p>
+  <img src="https://cdn.simpleicons.org/python/9CA3AF" height="32" alt="Python" />
+  <img src="https://cdn.simpleicons.org/django/9CA3AF" height="32" alt="Django" />
+  <img src="https://cdn.simpleicons.org/html5/9CA3AF" height="32" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/css/9CA3AF" height="32" alt="CSS" />
+  <img src="https://cdn.simpleicons.org/bootstrap/9CA3AF" height="32" alt="Bootstrap" />
+</p>
 
-**Ferramentas:** Git · GitHub · VS Code
+<h3>Dados e Business Intelligence</h3>
+<p>
+  <img src="https://cdn.simpleicons.org/mysql/9CA3AF" height="32" alt="SQL - MySQL" />
+  <img src="https://cdn.simpleicons.org/powerbi/9CA3AF" height="32" alt="Power BI" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/9CA3AF" height="32" alt="Excel" />
+</p>
 
-**Infraestrutura:** Suporte técnico · Hardware · Manutenção de computadores
+<h3>Ferramentas</h3>
+<p>
+  <img src="https://cdn.simpleicons.org/git/9CA3AF" height="32" alt="Git" />
+  <img src="https://cdn.simpleicons.org/github/9CA3AF" height="32" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/9CA3AF" height="32" alt="VS Code" />
+</p>
 
----
 
 ### Projetos
 
